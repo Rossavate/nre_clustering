@@ -1,0 +1,1 @@
+sed -n '230000,240000p' train.txt >> origin_data/test.txt
